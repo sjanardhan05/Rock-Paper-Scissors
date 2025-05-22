@@ -7,10 +7,10 @@
 2. we will ask how many rounds would you like to play?
     3 / 5 / 7 / 9 (This is should be an odd number)
     So we can derive a winner
-   /n There are two rules to give the input as rounds
-   /nRule-1: the input should be an Odd Number
-   /nRule-2: it should be greater than 2 and less than 10
-   /nif these two rules are not satisfied ask again
+   There are two rules to give the input as rounds
+   Rule-1: the input should be an Odd Number
+   Rule-2: it should be greater than 2 and less than 10
+   if these two rules are not satisfied ask again
 
 4. Make a function to generate random computer input
     (Rock Paper Scissor)
