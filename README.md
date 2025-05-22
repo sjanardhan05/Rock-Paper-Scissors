@@ -7,15 +7,19 @@
 2. we will ask how many rounds would you like to play?
     3 / 5 / 7 / 9 (This is should be an odd number)
     So we can derive a winner
+   /n There are two rules to give the input as rounds
+   /nRule-1: the input should be an Odd Number
+   /nRule-2: it should be greater than 2 and less than 10
+   /nif these two rules are not satisfied ask again
 
-3. Make a function to generate random computer input
+4. Make a function to generate random computer input
     (Rock Paper Scissor)
 
-4. Make a function to take player input of
+5. Make a function to take player input of
     R = Rock, P = Paper, S = Scissor
 
-5. Check who is winning in a specific round
+6. Check who is winning in a specific round
 
-6. Record the Score of the game
+7. Record the Score of the game
 
-7. Repeat everything until there is a winner
+8. Repeat everything until there is a winner
