@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors
 
+*Steps to implement the game in Python Language*
+
 1. we need to give player name as input
 
 2. we will ask how many rounds would you like to play?
